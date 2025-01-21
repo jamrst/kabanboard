@@ -36,7 +36,7 @@ Please contact me before contributing to this project. My contact info is locate
 
 ## Tests
 
-link to the deployed project: [Kanban Board](https://TBD/).
+link to the deployed project: [Kanban Board](https://jamrst-kaban-board.netlify.app).
 Link to the repo: [Kanban Board](https://github.com/jamrst/kabanboard).
 
 ## License
